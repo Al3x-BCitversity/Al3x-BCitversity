@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Al3x-BCitversity/Al3x-BCitversity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I am Alexander Kruger
 
-Here are some ideas to get you started:
+o      🎓 Computing Student at Belgium Campus iTversity 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+o      🌱 Passionate about Coding, IoT, and Gaming 
+
+
+🚀 Skills
+
+o        Programming: Python & Delphi
+
+o        Tools: Git, Power BI
+
+o        Cloud: Azure
+
+
+📄 CV
