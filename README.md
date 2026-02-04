@@ -16,5 +16,4 @@ o        Tools: Git, Power BI
 o        Cloud: Azure
 
 
-📄 CV
-o        Cloud: Azure
+
