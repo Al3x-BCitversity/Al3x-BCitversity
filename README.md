@@ -17,3 +17,4 @@ o        Cloud: Azure
 
 
 📄 CV
+o        Cloud: Azure
